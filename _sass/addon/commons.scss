@@ -708,7 +708,8 @@ $sidebar-display: "sidebar-display";
       font-weight: 900;
       font-size: 1.5rem;
       letter-spacing: 0.5px;
-      color: rgba(134, 133, 133, 99%);
+      color: red;
+      // color: rgba(134, 133, 133, 99%);
     }
   }
 
@@ -738,7 +739,8 @@ $sidebar-display: "sidebar-display";
 
     &.active {
       .nav-link {
-        color: var(--sidebar-active-color);
+        color: red;
+        // color: var(--sidebar-active-color);
       }
     }
 
