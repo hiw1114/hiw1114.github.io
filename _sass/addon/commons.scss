@@ -739,8 +739,7 @@ $sidebar-display: "sidebar-display";
 
     &.active {
       .nav-link {
-        color: red;
-        // color: var(--sidebar-active-color);
+        color: var(--sidebar-active-color);
       }
     }
 
